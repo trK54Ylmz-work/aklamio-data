@@ -2,6 +2,10 @@
 
 Hi, This report example for the Aklami's Senior Python Engineer position created by Tarik Yilmaz (trk54ylmz @ Github)
 
+This repository contains simple Pandas functions such as group by, join, filtering etc.
+
+**Note** I haven't used Docker compose etc. because the was no any orchestration needs.
+
 ### Install
 
 Please install dependencies by using `pip`,
